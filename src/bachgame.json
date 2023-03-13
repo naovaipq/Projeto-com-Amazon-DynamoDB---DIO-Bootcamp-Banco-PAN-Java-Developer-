@@ -1,0 +1,49 @@
+{
+    "Game": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Companie": {
+                        "S": "Nintendo"
+                    },
+                    "GameTitle": {
+                        "S": "Super Smash Bros Ultimate"
+                    },
+                    "GameYear": {
+                        "S": "2018"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Companie": {
+                        "S": "Nintendo"
+                    },
+                    "GameTitle": {
+                        "S": "Super Mario Deluxe"
+                    },
+                    "GameYear": {
+                        "S": "2018"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Companie": {
+                        "S": "Nintendo"
+                    },
+                    "GameTitle": {
+                        "S": "Pokemon Let's go Pikachu"
+                    },
+                    "GameYear": {
+                        "S": "2018"
+                    }
+                }
+            }
+        }
+    ]
+}
